@@ -1,3 +1,8 @@
+## Disclaimer
+This was an exercise for practicing gitlab pipelines trying an integration and deployement. 
+
+This was doing by following Nana's tutorial which you can see here: https://www.youtube.com/watch?v=qP8kir2GUgo
+
 # Python Flask - Demo Web Application
 
 This is a simple Python Flask web application. The app provides system information and a realtime monitoring screen with dials showing CPU, memory, IO and process information.
@@ -106,6 +111,4 @@ For a super quick deployment, use `make deploy` which will deploy to a resource 
 make deploy
 ```
 
-## Running in Azure App Service (Windows)
 
-Just don't, it's awful
